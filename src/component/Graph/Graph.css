@@ -1,0 +1,18 @@
+.graph{
+    margin: 50px auto;
+}
+.dropdown{
+    align-items: center;
+    text-align: center;
+}
+.dropdown-select{
+    border: 2px solid #008080;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-family: Arial;
+    background-color: #469292;
+    width: 310px;
+}
+.table{
+    color: black !important;
+}

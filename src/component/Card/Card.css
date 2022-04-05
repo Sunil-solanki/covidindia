@@ -1,0 +1,17 @@
+.card{
+    width: 300px;
+    height: 250px;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid #cecece;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    transition: 0.2s ease-in;
+    background-color: #40bbbb;
+    margin-bottom: 5px;
+}
+.card:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    cursor: pointer;   
+    background-color: #09aaaa;
+
+}

@@ -1,0 +1,38 @@
+.header-txt{
+    text-align: center;
+    margin-top: 50px;
+}
+.header-txt h1 {
+    font-weight: 700;
+    color: #74201f;
+}
+.data-table{
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    padding: 0;
+}
+
+.t-head{
+    background-color: #40bbbb;
+}
+.not-found-txt{
+    text-align: center;
+    float: right;
+    margin-top: 50px;
+    color: #b6b2b2;
+}
+.not-found-txt img{
+    width: 60px;
+    margin-right: 10px;
+    opacity: 0.4;
+    animation: covid-logo 20s infinite linear;
+}
+
+@keyframes covid-logo {
+    from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(359deg);
+      }
+}

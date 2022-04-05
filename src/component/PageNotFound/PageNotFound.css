@@ -1,0 +1,11 @@
+.pagenotfound{
+    text-align: center;
+    margin-top: 50px;
+    color: #b6b2b2;
+}
+.pagenotfound img{
+    width: 100px;
+    margin-right: 10px;
+    opacity: 0.4;
+    animation: covid-logo 20s infinite linear;
+}

@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  display: flex;
+  padding: 0 2%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #008080;
+}
+.logo {
+  font-size: 30px;
+  color: white !important;
+  margin-right: 50px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.logo img {
+  width: 80px;
+  margin-right: 10px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #88dfdf !important;
+}
+nav ul li a:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: #e2ecec !important;
+}
+.active{
+  color: #FFFFFF !important;
+}
